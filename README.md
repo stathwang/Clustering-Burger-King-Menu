@@ -11,11 +11,11 @@ Clustering Burger King menu items by nutritional values may reveal a different k
 
 Please refer to my [blog](http://www.thedatalogical.com) for more information about the process and results of clustering. In the blog, I came up with 7 robust clusters using Dirichlet Process Mixture Model-Based Clustering in Python that were identified as follows:
 
-> * _Cluster 1_: Breakfast
-> * _Cluster 2_: Chicken Burgers and Crispy Food
-> * _Cluster 3_: Large Size Burgers
-> * _Cluster 4_: Sauces, Coffees and Less Sugary Drinks
-> * _Cluster 5_: The Ultimate Breakfast Platter (1 Item Cluster)
+* **Cluster 1**: Breakfast
+* _Cluster 2_: Chicken Burgers and Crispy Food
+* _Cluster 3_: Large Size Burgers
+* _Cluster 4_: Sauces, Coffees and Less Sugary Drinks
+* _Cluster 5_: The Ultimate Breakfast Platter (1 Item Cluster)
 * _Cluster 6_: Desserts and Sugary Drinks
 * _Cluster 7_: Milkshakes
 
