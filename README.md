@@ -1,6 +1,4 @@
----
-output: html_document
----
+
 # bk_menu
 Clustering Burger King Menu
 
