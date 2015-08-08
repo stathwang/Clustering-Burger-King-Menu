@@ -21,4 +21,4 @@ For the other clustering techniques, written here in R, I came up with around 13
 
 I used ggplot2 library to create a bar graph of representative menu items in each cluster like this:
 
-[!ScreenShot](/img/sample_ggplot.png)
+![ScreenShot](/img/sample_ggplot.png)
