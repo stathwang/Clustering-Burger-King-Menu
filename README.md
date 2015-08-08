@@ -1,8 +1,4 @@
----
-output: html_document
----
-# bk_menu
-Clustering Burger King Menu
+# Clustering Burger King Menu
 
 Clustering is an unsupervised learning technique to find structure in data; informally, it is a way to find natural groupings among objects of interest. Here I use various clustering techniques to cluster Burger King menu items based on their nutritional values such as K-Means and Hierarchical Clustering, Dirichlet Process Mixture Model-Based Clustering, Spectral Clustering and Graph-Based Community Detection with Infomap.
 
